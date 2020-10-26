@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601394219142",
+    "firebase_url": "https://smsapp-6061f.firebaseio.com",
+    "project_id": "smsapp-6061f",
+    "storage_bucket": "smsapp-6061f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601394219142:android:5e0dc608f8a7f5ea5a2907",
+        "android_client_info": {
+          "package_name": "com.maliyabrother.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601394219142-pb184h2kpvfqdrbtb34uuditvelvbbgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpruwkeuo_gxjlxbwlbp56sq2HIESyRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601394219142-pb184h2kpvfqdrbtb34uuditvelvbbgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
